@@ -120,13 +120,14 @@ body{
 .service-box{
     display:flex;
     justify-content:center;
+    align-items:flex-start;
     flex-wrap:wrap;
     gap:30px;
 }
 
 .card{
     width:320px;
-    background:white;
+    background:#fff;
     border-radius:15px;
     overflow:hidden;
     box-shadow:0 10px 30px rgba(0,0,0,.1);
