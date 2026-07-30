@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hamzakhann383.github.io/hk-office/sitemap.xml
